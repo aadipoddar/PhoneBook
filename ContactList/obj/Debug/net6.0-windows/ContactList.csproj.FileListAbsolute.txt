@@ -1,0 +1,17 @@
+D:\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.exe
+D:\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.deps.json
+D:\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.runtimeconfig.json
+D:\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.dll
+D:\ContactList\ContactList\bin\Debug\net6.0-windows\ref\ContactList.dll
+D:\ContactList\ContactList\bin\Debug\net6.0-windows\ContactList.pdb
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.csproj.AssemblyReference.cache
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.Form1.resources
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.csproj.GenerateResource.cache
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.AssemblyInfoInputs.cache
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.AssemblyInfo.cs
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.csproj.CoreCompileInputs.cache
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.dll
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ref\ContactList.dll
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.pdb
+D:\ContactList\ContactList\obj\Debug\net6.0-windows\ContactList.genruntimeconfig.cache
